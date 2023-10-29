@@ -16,5 +16,6 @@ public class Demotwo {
 	}
 	System.out.println("temp: "+temp);
 	//System.out.println(temp+ " : "+temp * (temp + 1) /2);
+	System.out.println("temp: "+temp);
 	}
 }
