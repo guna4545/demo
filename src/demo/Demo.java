@@ -35,8 +35,9 @@ public class Demo {
 		for(Map.Entry<String,Object> entry : finalList.entrySet()){
 			System.out.println(entry.getKey()+"->");
 			System.out.println(entry.getValue().toString());
+			System.out.println(entry.getValue().toString());
 //			for(Map.Entry<String,Object> entryObj : entry.getValue()){
-//				System.out.println(entryObj.getKey()+" : " + entryObj);
+//.ge				System.out.println(entryObjtKey()+" : " + entryObj);
 //			}
 		}
 	}
